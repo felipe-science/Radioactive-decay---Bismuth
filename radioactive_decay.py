@@ -90,9 +90,9 @@ pl.plot(tpoints,Pbpoints, label = "Pb 209")
 pl.legend(loc='best')
 pl.plot(tpoints,Bi2points, label = "Bi 209")
 pl.legend(loc='best')
-pl.title("Decaimento Radioativo")
-pl.xlabel("Tempo (s)")
-pl.ylabel("Nº de átomos")
+pl.title("Radioactive decay of bismuth")
+pl.xlabel("time (s)")
+pl.ylabel("Number of atoms")
 
 pl.show()
 
