@@ -95,22 +95,3 @@ pl.xlabel("time (s)")
 pl.ylabel("Number of atoms")
 
 pl.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
